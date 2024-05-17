@@ -1,6 +1,6 @@
 #!/bin/bash
 # =========================================
-BOT="https://raw.githubusercontent.com/xyoruz/scriptvpn/main/bot.sh"
+BOT="https://raw.githubusercontent.com/xyoruz/src/main/"
 UPDATE="https://raw.githubusercontent.com/xyoruz/VVIP/ipuk/update/update.sh"
 GREEN='\033[0;32m'
 RED='\033[0;31m'
