@@ -154,7 +154,7 @@ sleep 1
 echo -e "$COLOR1│${NC}  [INFO] Processing updating server...... "
 Save_And_Exit
 fi
-link="https://raw.githubusercontent.com/xyoruz/backup/ipuk/$NameUser/$NameUser.zip"
+link="https://raw.githubusercontent.com/xyoruz/backup/main/$NameUser/$NameUser.zip"
 sleep 1
 echo -e "$COLOR1│${NC}  [INFO] Backup done "
 sleep 1
