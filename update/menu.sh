@@ -68,17 +68,6 @@ export PURPLE='\033[0;35m'
 export CYAN='\033[0;36m'
 export LIGHT='\033[0;37m'
 export NC='\033[0m'
-export runn='\e[38;5;14m' 
-export acc='\e[38;5;146m'
-export LO='\e[38;5;162m'
-export UK='\e[38;5;99m'  # UNGU KOLOT
-export BK='\e[38;5;196m' # BEREM KOLOT 
-export R1='\e[38;5;155m' # HEJO SEMU BODAS
-export R2='\e[38;5;49m'  # HEJO LIME / APEL
-export BC='\e[38;5;195m' # BODAS CERAH PISAN
-export HU='\e[38;5;115m' # HEJO SEMU ABU
-export UB='\e[38;5;147m' # UNGU KABODASAN
-export KT='\e[38;5;187m' # KONENG TARIGU
 
 # // Export Banner Status Information
 export EROR="[${RED} EROR ${NC}]"
